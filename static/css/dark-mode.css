@@ -1,0 +1,35 @@
+body.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.dark-mode header {
+    background: #2c2c2c;
+    border-bottom: #444 1px solid;
+}
+
+.dark-mode header a,
+.dark-mode header .highlight {
+    color: #ffffff;
+}
+
+.dark-mode .btn {
+    background: #444;
+    color: #ffffff;
+}
+
+.dark-mode .btn:hover {
+    background: #666;
+}
+
+.dark-mode input[type="text"],
+.dark-mode input[type="email"],
+.dark-mode input[type="password"] {
+    background-color: #2c2c2c;
+    color: #ffffff;
+    border: 1px solid #444;
+}
+
+.dark-mode a {
+    color: #4da6ff;
+}
